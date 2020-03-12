@@ -1,0 +1,5 @@
+age = 19
+name = 'Ky'
+
+print ('{name} was {age} years old when he decided to learn Python'.format (name=name, age=age))
+print ('Why {name} is learning Python?'.format (name=name))
